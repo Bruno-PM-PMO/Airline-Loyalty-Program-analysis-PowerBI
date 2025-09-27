@@ -20,4 +20,4 @@ Dashboard built in Power BI to analyze an airline’s loyalty program. Focus on 
 
 
 I welcome suggestions, improvements, and collaborations. Feel free to open issues or send PRs.  
-Let’s turn data into decisions together.
+**Let’s turn data into decisions together.**
