@@ -1,13 +1,7 @@
 
 ---
 
-## 🔍 Insights & Recommendations
 
-1. **Net Growth Matters**: raw enrollments may look strong, but cancellations cut effective gains.  
-2. **Retention Timing Patterns**: cancellations cluster around specific months—targeted retention campaigns can reduce churn.  
-3. **Loyal Flight Behavior**: true loyalty shows in flight booking trends more than in sign-ups alone.  
-
-Use these insights to inform marketing, customer engagement, or promotional strategies.
 
 ---
 
@@ -30,6 +24,13 @@ Use these insights to inform marketing, customer engagement, or promotional stra
 
 ---
 
+## 🔍 Insights & Recommendations
+
+1. **Net Growth Matters**: raw enrollments may look strong, but cancellations cut effective gains.  
+2. **Retention Timing Patterns**: cancellations cluster around specific months—targeted retention campaigns can reduce churn.  
+3. **Loyal Flight Behavior**: true loyalty shows in flight booking trends more than in sign-ups alone.  
+
+Use these insights to inform marketing, customer engagement, or promotional strategies.
 ## 📚 Resources & References
 
 - [Airline Loyalty dataset – Maven Analytics Playground] 
