@@ -4,8 +4,7 @@ Dashboard built in Power BI to analyze an airline’s loyalty program. Focus on 
 
 **Key Features**
 
-- Interactive dashboard with KPIs & trends
-   <Airline loyalty program.png/>
+- Interactive dashboard with KPIs & trends <Airline loyalty program.png/>
 
 - Customer segmentation & churn analysis
 
