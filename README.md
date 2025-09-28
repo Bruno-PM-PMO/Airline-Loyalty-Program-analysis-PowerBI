@@ -2,6 +2,8 @@
 
 Dashboard built in Power BI to analyze an airline’s loyalty program. Focus on enrollments, cancellations, retention, and flight activity to uncover customer behavior and business impact.
 
+The project transforms raw data into KPIs and visualizations that provide actionable insights for customer retention and engagement.
+
 **Key Features**
 
 - Interactive dashboard with KPIs & trends
@@ -34,6 +36,6 @@ Airline_Loyalty_Dashboard.pbix → Interactive report
 
 images/ → Dashboard screenshots
 
-
+_______________________________________
 I welcome suggestions, improvements, and collaborations. Feel free to open issues or send PRs.  
 **Let’s turn data into decisions together.**
