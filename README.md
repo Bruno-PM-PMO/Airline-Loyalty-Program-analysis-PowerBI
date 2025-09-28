@@ -1,6 +1,8 @@
 **Project Summary**
 
-Dashboard built in Power BI to analyze an airline’s loyalty program. Focus on enrollments, cancellations, retention, and flight activity to uncover customer behavior and business impact.
+Dashboard built in Power BI to analyze an airline’s loyalty program. 
+
+Focus on enrollments, cancellations, retention, and flight activity to uncover customer behavior and business impact.
 
 The project transforms raw data into KPIs and visualizations that provide actionable insights for customer retention and engagement.
 
