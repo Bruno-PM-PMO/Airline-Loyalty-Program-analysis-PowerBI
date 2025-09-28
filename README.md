@@ -19,12 +19,20 @@ Dashboard built in Power BI to analyze an airline’s loyalty program. Focus on 
 - Net loyalty members stabilized after initial drop, signaling improved retention strategies.
   <img width="1281" height="719" alt="image" src="https://github.com/user-attachments/assets/88716e76-93bd-4135-be7d-49b8b0d6608f" />
 
-
-
 - Loyalty members booked significantly more flights than non-members, confirming the program’s positive impact on revenue.
   <img width="1276" height="729" alt="Airline loyalty program (2)" src="https://github.com/user-attachments/assets/59328e7a-1bad-4e85-98a4-407331c1f618" />
   
+**Tools**
 
+Power BI (data modeling & dashboards)
+
+DAX measures for KPIs and trends
+
+**Files**
+
+Airline_Loyalty_Dashboard.pbix → Interactive report
+
+images/ → Dashboard screenshots
 
 I welcome suggestions, improvements, and collaborations. Feel free to open issues or send PRs.  
 **Let’s turn data into decisions together.**
