@@ -34,5 +34,6 @@ Airline_Loyalty_Dashboard.pbix → Interactive report
 
 images/ → Dashboard screenshots
 
+
 I welcome suggestions, improvements, and collaborations. Feel free to open issues or send PRs.  
 **Let’s turn data into decisions together.**
