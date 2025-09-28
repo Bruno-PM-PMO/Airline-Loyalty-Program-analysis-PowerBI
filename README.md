@@ -18,7 +18,7 @@ Dashboard built in Power BI to analyze an airline’s loyalty program. Focus on 
   <img width="1281" height="719" alt="image" src="https://github.com/user-attachments/assets/88716e76-93bd-4135-be7d-49b8b0d6608f" />
 
 
-- Loyalty members booked significantly more flights than non-members, confirming the program’s positive impact on revenue.
+- Loyalty members booked significantly more flights than non-members, confirming the program’s positive impact on revenue. <img Airline loyalty program (2).png/>
   
 
 
