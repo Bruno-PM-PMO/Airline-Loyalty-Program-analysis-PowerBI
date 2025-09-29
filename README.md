@@ -2,7 +2,7 @@
 
 Dashboard built in Power BI to analyze an airline’s loyalty program. 
 
-The airline needed visibility into customer loyalty, with clear metrics to track enrollments, cancellations, and net members.
+The problem is the airline needed visibility into customer loyalty, with clear metrics to track enrollments, cancellations, and net members.
 
 The project transforms raw data into KPIs and visualizations that provide actionable insights for customer retention and engagement.
 
@@ -15,7 +15,7 @@ The project transforms raw data into KPIs and visualizations that provide action
 
 - Flight activity vs. loyalty engagement 
 
-**Key Insights**
+**Key Insights & Solution**
 
 - Enrollments peaked mid-year but cancellations followed a similar pattern, showing seasonal volatility.
 
