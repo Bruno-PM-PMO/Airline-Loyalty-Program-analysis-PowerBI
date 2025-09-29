@@ -25,6 +25,10 @@ The project transforms raw data into KPIs and visualizations that provide action
 - Loyalty members booked significantly more flights than non-members, confirming the program’s positive impact on revenue.
   <img width="1276" height="729" alt="Airline loyalty program (2)" src="https://github.com/user-attachments/assets/59328e7a-1bad-4e85-98a4-407331c1f618" />
 
+**Impact**
+
+This dashboard enabled clear visibility into customer loyalty trends, supporting data-driven strategies to increase retention and maximize revenue from frequent flyers.
+
 **Tools & Approach**
 
 Data cleaning → Modeling (DAX, relationships) → Dashboard design in Power BI.
@@ -36,7 +40,6 @@ Fictitious airline dataset (~412k records, 28 fields, CSV).
 Airline_Loyalty_Dashboard.pbix → Interactive report
 
 images/ → Dashboard screenshots
-
 _______________________________________
 I welcome suggestions, improvements, and collaborations. Feel free to open issues or send PRs.  
 **Let’s turn data into decisions together.**
